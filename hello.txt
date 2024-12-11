@@ -6,3 +6,4 @@
 1.0.4:module1 bbb
 1.0.5:online editedd
 1.0.6:online e2
+1.0.7:member modified
